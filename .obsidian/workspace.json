@@ -11,7 +11,7 @@
             "id": "d56e9e1fff5181a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -147,8 +147,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7edeb1aef25a99e8",
+  "active": "95b12df346068f31",
   "lastOpenFiles": [
+    "Allon/Abbey/Abbey.md",
+    "Allon/Daford/Daford.md",
+    "Allon/Hawic/Hawic.md",
+    "Allon/Kosava/Kosava.md",
+    "Allon/Lavo/Lavo.md",
+    "Allon/Londe/Londe.md",
+    "Allon/Lusava/Lusava.md",
+    "Allon/Misthaven/Misthaven.md",
+    "Allon/Vale/Vale.md",
+    "templates/city.md",
+    "Welcome.md",
+    "templates",
     "Allon/Tizamky/Tizamky.md",
     "Allon/Sabre/Sabre.md",
     "Allon/Sabre/Untitled",
@@ -157,7 +169,6 @@
     "Allon/Allon.md",
     "templates",
     "Untitled.canvas",
-    "Welcome.md",
     "Allon/BlackLeaf/BlackLeafOverview.md",
     "Allon/Tizamky",
     "Allon/Abbey",
@@ -166,7 +177,6 @@
     "Allon/Misthaven",
     "Allon/Lusava",
     "Allon/Londe",
-    "Allon/Lavo",
     "Allon/Untitled.md"
   ]
 }
