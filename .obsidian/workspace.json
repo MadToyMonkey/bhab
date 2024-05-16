@@ -11,8 +11,12 @@
             "id": "d56e9e1fff5181a9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Allon/Tizamky/Tizamky.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Allon/Tizamky/Tizamky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Allon/Tizamky/Tizamky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Allon/Tizamky/Tizamky.md"
+              }
             }
           },
           {
@@ -134,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,18 +155,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7edeb1aef25a99e8",
+  "active": "d56e9e1fff5181a9",
   "lastOpenFiles": [
-    "Allon/Abbey/Abbey.md",
-    "Allon/Daford/Daford.md",
-    "Allon/Hawic/Hawic.md",
-    "Allon/Kosava/Kosava.md",
+    "Allon/BlackLeaf/BlackLeaf.md",
+    "Allon/Tizamky/Tizamky.md",
+    "Allon/Sable/Sable.md",
+    "Allon/Tizamky",
+    "Allon/BlackLeaf",
+    "Allon/Vale/Vale.md",
+    "Allon/Sable",
     "Allon/Lavo/Lavo.md",
+    "Allon/Kosava/Kosava.md",
+    "Allon/Hawic/Hawic.md",
+    "Allon/Daford/Daford.md",
+    "Allon/Abbey/Abbey.md",
+    "templates/city.md",
     "Allon/Londe/Londe.md",
     "Allon/Lusava/Lusava.md",
     "Allon/Misthaven/Misthaven.md",
-    "Allon/Vale/Vale.md",
-    "templates/city.md",
     "Welcome.md",
     "templates",
     "Allon/Tizamky/Tizamky.md",
@@ -175,9 +188,6 @@
     "Allon/Abbey",
     "Allon/Sabre",
     "Allon/Daford",
-    "Allon/Misthaven",
-    "Allon/Lusava",
-    "Allon/Londe",
     "Allon/Untitled.md"
   ]
 }
