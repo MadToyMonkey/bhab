@@ -11,11 +11,9 @@
             "id": "d56e9e1fff5181a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Allon/Tizamky/Tizamky.md",
-                "mode": "source",
-                "source": false
+                "file": "Allon/Tizamky/tizamky (2).png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allon/Tizamky/Tizamky.md",
+                "file": "Allon/Tizamky/tizamky (2).png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Allon/Tizamky/Tizamky.md",
+                "file": "Allon/Tizamky/tizamky (2).png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Allon/Tizamky/Tizamky.md"
+                "file": "Allon/Tizamky/tizamky (2).png"
               }
             }
           },
@@ -142,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,13 +156,23 @@
   },
   "active": "d56e9e1fff5181a9",
   "lastOpenFiles": [
-    "Allon/BlackLeaf/BlackLeaf.md",
     "Allon/Tizamky/Tizamky.md",
+    "Allon/Tizamky/tizamky (2).png",
+    "Allon/Tizamky/tizamky (2).png.crdownload",
+    "Allon/Tizamky/tizamky (1).png",
+    "Allon/Tizamky/Tizamky-buildings.csv",
+    "Allon/Tizamky/Tizamky-buildings.csv.crdownload",
+    "Allon/Tizamky/Tizamky-relations.csv",
+    "Allon/Tizamky/Tizamky-relations.csv.crdownload",
+    "Allon/Tizamky/Tizamky-people.csv",
+    "Allon/Tizamky/Tizamky-people.csv.crdownload",
+    "Allon/Tizamky/Tizamky.png",
+    "Allon/Tizamky/Tizamky.png.crdownload",
+    "Allon/BlackLeaf/BlackLeaf.md",
     "Allon/Sable/Sable.md",
     "Allon/Tizamky",
     "Allon/BlackLeaf",
     "Allon/Vale/Vale.md",
-    "Allon/Sable",
     "Allon/Lavo/Lavo.md",
     "Allon/Kosava/Kosava.md",
     "Allon/Hawic/Hawic.md",
@@ -174,20 +183,12 @@
     "Allon/Lusava/Lusava.md",
     "Allon/Misthaven/Misthaven.md",
     "Welcome.md",
-    "templates",
-    "Allon/Tizamky/Tizamky.md",
     "Allon/Sabre/Sabre.md",
-    "Allon/Sabre/Untitled",
     "templates/City.md",
     "Bhab.md",
     "Allon/Allon.md",
-    "templates",
     "Untitled.canvas",
     "Allon/BlackLeaf/BlackLeafOverview.md",
-    "Allon/Tizamky",
-    "Allon/Abbey",
-    "Allon/Sabre",
-    "Allon/Daford",
     "Allon/Untitled.md"
   ]
 }
